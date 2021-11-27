@@ -1,0 +1,120 @@
+Secure Remote Worker Validation Tool Results
+Completed: July 29, 2021 3:49:57 AM (UTC)
+Profile Name: T-Mobile-Computer Validation
+Profile ID: 2ac83044-866c-4593-b7aa-ac220284deb9
+Profile Revision: 24
+
+Result: Close
+
+----------------------------------------
+------------- USER DATA -------------
+----------------------------------------
+
+Computer Name  : LAPTOP-EQISRF34
+User logged in : LAPTOP-EQISRF34\vamsi
+Full Name: Vamsi Nadendla
+Address/Location: 1054 Lena Avenue, Windsor, ON N9C 3K4, Canada
+Email address: vamsikrish.nadendla@gmail.com
+Phone no.: 4164338796
+Campaign/Program: System Check
+
+----------------------------------------
+--------- TECHNICAL DATA ----------
+----------------------------------------
+
+----------------------------------------
+Rule: Internet Speed (10Mbps Download/3Mbps Upload Minimum)
+Result: Passed
+Action: Continue
+----------------------------------------
+Rule: Windows Update Compliant
+Result: Failed
+Action: Close
+Message: Make sure to turn and update your windows, Please click on below link to see how you can fix it: https://kb.thinscale.com/secure-remote-worker-validation-tool/updating-the-windows-operating-system
+----------------------------------------
+Rule: Phyiscal Memory Test
+Result: Passed
+Action: Continue
+----------------------------------------
+Rule: Anti-Virus Status
+Result: Passed
+Action: Continue
+----------------------------------------
+Rule: Anti-Spyware Status
+Result: Passed
+Action: Continue
+----------------------------------------
+Rule: Firewall Status
+Result: Passed
+Action: Continue
+----------------------------------------
+Rule: Windows Update Status
+Result: Passed
+Action: Continue
+----------------------------------------
+Rule: NO Wi-Fi Connected
+Result: Passed
+Action: Continue
+----------------------------------------
+Rule: Virtual Machine
+Result: Passed
+Action: Continue
+----------------------------------------
+Rule: Dual Monitors
+Result: Failed
+Action: Continue
+Message: We recommend using Dual Monitors Setup, The Dual Monitors Setup will give you more space to navigate between the applications, you're still able to connect your PC to a TV if you don't have any available extra monitor, Please follow this article if you are interested https://www.wikihow.com/Connect-PC-to-TV (Optional).
+----------------------------------------
+Rule: Windows lifecycle
+Result: Passed
+Action: Continue
+----------------------------------------
+Rule: Storage Availiblity 
+Result: Passed
+Action: Continue
+
+----------------------------------------
+-------- DEVICE INVENTORY ---------
+----------------------------------------
+
+Available Windows Updates:
+    ASIX - Net - 1.20.6.0
+    Realtek Semiconductor Corp. - Net - 2024.0.10.214
+    Realtek Semiconductor Corp. - Bluetooth - 1.8.1027.3000
+Download Bandwidth (Mbps): 32.6874847412109
+Upload Bandwidth (Mbps): 60
+Has Active Wi-Fi Adapter: Yes
+Has Connected Wi-Fi Adapter: No
+Manufacturer: HP
+Model: HP Pavilion Laptop 15-cs2xxx
+System Type: x64-based PC
+Serial Number: 5CD9313BMH
+Is Virtual Machine: No
+Is Hyper-V Parent: No
+Processor Count: 8
+Monitor Count: 1
+Total Physical Memory: 12175
+OS Name: Microsoft Windows 10 Home
+OS Version: 10.0.19043
+64-Bit OS: Yes
+Program Files (x86) Directory: C:\Program Files (x86)
+ProgramData Directory: C:\ProgramData
+Domain Member: False
+MAC Address: F8-B4-6A-A3-B6-7C
+.NET Version: 528372
+Horizon Version: [unknown]
+RDP Version: 10.0.19041.1
+Receiver Version: [unknown]
+IE Version: 11.789.19041.0
+CPU Name: Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+CPU Max Clock Speed: 1992
+CPU Serial Number: BFEBFBFF000806EC
+Drive C:
+    Disk Model: INTEL SSDPEKNW512G8H
+    Disk Type: SSD
+    Total Size (MB): 487178
+    Free Space (MB): 288437
+
+----------------------------------------
+Validation Tool Version: 6.3.74.7608
+----------------------------------------
